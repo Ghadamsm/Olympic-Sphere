@@ -1,5 +1,5 @@
 # Olympic Spher
-
+<img src="https://github.com/Ghadamsm/Olympic-Sphere/blob/main/Digrams%20and%20logo/Logo.png" width="450" height="300">
 ## Introduction
 #### revolutionizing the way sports organizations, athletes, and fans interact and engage with the world of sports. 
 #### In today's fast-paced sports industry, where data is abundant and connectivity is crucial, our system serves as the cornerstone for
@@ -42,6 +42,7 @@
 ## Use Case Diagram :
 
 ## Class Diagram : 
+
 ## Figma : 
 [Figma](https://www.figma.com/file/qA7fTza1TpOeWhaJLeEsjy/Final-Project?type=design&node-id=0-1&mode=design&t=WIsR4bn2vwnI7p5B-0)
 ## Presentation on canva :
