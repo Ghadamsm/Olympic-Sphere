@@ -45,7 +45,7 @@
 
 
 ## Use Case Diagram :
-<img src="https://github.com/Ghadamsm/Olympic-Sphere/blob/main/Digrams%20and%20logo/use%20case.drawio.png" width="600" height="1500">
+<img src="https://github.com/Ghadamsm/Olympic-Sphere/blob/main/Digrams%20and%20logo/use%20case.drawio.png" width="600" height="1800">
 
 ## Class Diagram : 
 <img src="https://github.com/Ghadamsm/Olympic-Sphere/blob/main/Digrams%20and%20logo/Class.png" width="600" height="800" >
