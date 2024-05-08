@@ -1,5 +1,6 @@
 # Olympic Spher
 <img src="https://github.com/Ghadamsm/Olympic-Sphere/blob/main/Digrams%20and%20logo/Logo.png" width="450" height="300">
+
 ## Introduction
 #### revolutionizing the way sports organizations, athletes, and fans interact and engage with the world of sports. 
 #### In today's fast-paced sports industry, where data is abundant and connectivity is crucial, our system serves as the cornerstone for
