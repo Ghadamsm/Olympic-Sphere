@@ -10,6 +10,10 @@
 #### together. Welcome to the next generation of sports technology.
 
 
+## Model:
+#### 1- sport Admin.
+#### 2- Team Admin.
+
 
 ## My Endpoint :
 
