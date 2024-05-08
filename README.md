@@ -1,7 +1,7 @@
 # Olympic Spher
 <img src="https://github.com/Ghadamsm/Olympic-Sphere/blob/main/Digrams%20and%20logo/Logo.png" width="450" height="300">
 
-## Introduction
+## Introduction :
 #### revolutionizing the way sports organizations, athletes, and fans interact and engage with the world of sports. 
 #### In today's fast-paced sports industry, where data is abundant and connectivity is crucial, our system serves as the cornerstone for
 #### seamless collaboration, streamlined operations, and enhanced experiences. Whether you're an administrative team managing player
@@ -11,7 +11,7 @@
 
 
 
-## My Endpoint
+## My Endpoint :
 
 
 #### 1- change booking status.
@@ -44,11 +44,14 @@
 <img src="https://github.com/Ghadamsm/Olympic-Sphere/blob/main/Digrams%20and%20logo/use%20case.drawio.png" width="600" height="1500">
 
 ## Class Diagram : 
+<img src="https://github.com/Ghadamsm/Olympic-Sphere/blob/main/Digrams%20and%20logo/Class.png" width="600" height="800" >
 
 ## Figma : 
 [Figma](https://www.figma.com/file/qA7fTza1TpOeWhaJLeEsjy/Final-Project?type=design&node-id=0-1&mode=design&t=WIsR4bn2vwnI7p5B-0)
+
 ## Presentation on canva :
 [Presentation on canva](https://www.canva.com/design/DAGEnz3FEGQ/A2WrpXbRACOjNSHIh9JI_Q/edit)
+
 ## Postman API Doucumentation : 
 [Postman API Doucumentation](https://documenter.getpostman.com/view/29329177/2sA3JKc2NP)
 
