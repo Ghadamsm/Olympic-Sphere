@@ -1,4 +1,4 @@
-### Olympic Spher
+#### Olympic Spher
 revolutionizing the way sports organizations, athletes, and fans interact and engage with the world of sports. 
 In today's fast-paced sports industry, where data is abundant and connectivity is crucial, our system serves as the cornerstone for
 seamless collaboration, streamlined operations, and enhanced experiences. Whether you're an administrative team managing player
