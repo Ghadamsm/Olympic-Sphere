@@ -1,4 +1,4 @@
-# Olympic Spher
+# Olympic Sphere 2030
 <img src="https://github.com/Ghadamsm/Olympic-Sphere/blob/main/Digrams%20and%20logo/Logo.png" width="450" height="300">
 
 ## Introduction :
